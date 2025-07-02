@@ -23,4 +23,42 @@ This is a fun Python simulation of a Coffee Machine that serves **espresso**, **
 - Handling user input in real-world style projects
 
 ## 📸 Sample Output
+What would you like? espresso/latte/cappuccino.
+
+latte
+Please insert coins.
+How many quarters? 10
+...
+Here is your latte. Enjoy! ☕
+
+markdown
+Copy code
+
+## 🧃 Resources It Tracks
+
+- Water 💧
+- Milk 🥛
+- Coffee ☕
+- Money 💸
+
+## 📋 Report Example
+
+Water = 100ml
+Milk = 50ml
+Coffee = 76g
+Money = $58.25
+
+yaml
+Copy code
+
+---
+
+## 🤖 Run the Project
+
+Make sure you have Python installed, then just run:
+
+```bash
+python main.py
+Enjoy your virtual brew! ☕✨
+
 
